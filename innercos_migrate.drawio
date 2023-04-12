@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T08:11:55.537Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="mGWy1alN8VYqSa6gCDVj" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T11:08:55.389Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Ed-gVW779I456A6fQRdY" version="20.5.3" type="github">
   <diagram id="296LfFah79NuUJlbG3By" name="Page-1">
     <mxGraphModel dx="1425" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,9 +49,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JAC4S3_GDP9F-taHladh-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;发起清单&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JAC4S3_GDP9F-taHladh-6" target="JAC4S3_GDP9F-taHladh-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="-0.345" y="-1" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="270" as="sourcePoint" />
             <mxPoint x="625" y="340" as="targetPoint" />
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JAC4S3_GDP9F-taHladh-16" value="更新单个清单处理进度" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;verticalAlign=top;" edge="1" parent="1" source="JAC4S3_GDP9F-taHladh-6" target="JAC4S3_GDP9F-taHladh-4">
@@ -91,6 +92,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450.0000000000002" y="270" as="sourcePoint" />
             <mxPoint x="390.0000000000002" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JAC4S3_GDP9F-taHladh-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;查询/下载&lt;br&gt;manifest&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;jumpSize=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="260" as="sourcePoint" />
+            <mxPoint x="600" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
