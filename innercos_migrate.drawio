@@ -1,103 +1,117 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T11:08:55.389Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Ed-gVW779I456A6fQRdY" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T09:24:28.938Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yUUhfN5XvPxi9h-LSOi1" version="21.1.6" type="github">
   <diagram id="296LfFah79NuUJlbG3By" name="Page-1">
-    <mxGraphModel dx="1425" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1734" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JAC4S3_GDP9F-taHladh-1" value="调度总控" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="JAC4S3_GDP9F-taHladh-1" value="调度总控" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="140" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JAC4S3_GDP9F-taHladh-2" value="CosAccess" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="JAC4S3_GDP9F-taHladh-2" value="CosAccess" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="10" y="380" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JAC4S3_GDP9F-taHladh-3" value="DB&amp;nbsp;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color emoji&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: 11pt; letter-spacing: 0pt; text-align: start; background-color: initial;&quot;&gt;trsf_state&lt;/span&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;4a2eae2283cb19f4d7de81609b2f56e9&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="JAC4S3_GDP9F-taHladh-3" value="DB&amp;nbsp;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color emoji&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: 11pt; letter-spacing: 0pt; text-align: start; background-color: initial;&quot;&gt;trsf_state&lt;/span&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;4a2eae2283cb19f4d7de81609b2f56e9&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="210" y="380" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JAC4S3_GDP9F-taHladh-4" value="DB&amp;nbsp;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color emoji&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: 11pt; letter-spacing: 0pt; text-align: start; background-color: initial;&quot;&gt;inventory&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: rgb(51, 51, 51); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color emoji&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: 11pt; letter-spacing: 0pt; text-align: start;&quot;&gt;_state&lt;/span&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;7a1eabc3deb7fd02ceb1e16eafc41073&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;4a2eae2283cb19f4d7de81609b2f56e9&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="JAC4S3_GDP9F-taHladh-4" value="DB&amp;nbsp;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color emoji&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: 11pt; letter-spacing: 0pt; text-align: start; background-color: initial;&quot;&gt;inventory&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: rgb(51, 51, 51); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color emoji&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: 11pt; letter-spacing: 0pt; text-align: start;&quot;&gt;_state&lt;/span&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;7a1eabc3deb7fd02ceb1e16eafc41073&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;4a2eae2283cb19f4d7de81609b2f56e9&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="310" y="380" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JAC4S3_GDP9F-taHladh-5" value="CosList" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="JAC4S3_GDP9F-taHladh-5" value="CosList" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="460" y="380" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JAC4S3_GDP9F-taHladh-6" value="长任务 master" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="JAC4S3_GDP9F-taHladh-6" value="长任务 master" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="400" y="220" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JAC4S3_GDP9F-taHladh-7" value="长任务 worker" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="560" y="300" width="80" height="40" as="geometry" />
+        <mxCell id="JAC4S3_GDP9F-taHladh-7" value="长任务 worker" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="600" y="290" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JAC4S3_GDP9F-taHladh-8" value="HttpApi" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="JAC4S3_GDP9F-taHladh-8" value="HttpApi" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="560" y="380" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JAC4S3_GDP9F-taHladh-9" value="路由服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="JAC4S3_GDP9F-taHladh-9" value="路由服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="110" y="380" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JAC4S3_GDP9F-taHladh-10" value="发起任务" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;" edge="1" parent="1" source="JAC4S3_GDP9F-taHladh-1" target="JAC4S3_GDP9F-taHladh-6">
+        <mxCell id="JAC4S3_GDP9F-taHladh-10" value="发起任务" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;" parent="1" source="JAC4S3_GDP9F-taHladh-1" target="JAC4S3_GDP9F-taHladh-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="290" as="sourcePoint" />
             <mxPoint x="210" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JAC4S3_GDP9F-taHladh-12" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;fontColor=#1A1A1A;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;" edge="1" parent="1" source="JAC4S3_GDP9F-taHladh-7" target="JAC4S3_GDP9F-taHladh-8">
+        <mxCell id="JAC4S3_GDP9F-taHladh-12" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;fontColor=#1A1A1A;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;" parent="1" source="JAC4S3_GDP9F-taHladh-7" target="JAC4S3_GDP9F-taHladh-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="625" y="290" as="sourcePoint" />
             <mxPoint x="625" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JAC4S3_GDP9F-taHladh-23" value="下载清单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Georgia;fontColor=#1A1A1A;" vertex="1" connectable="0" parent="JAC4S3_GDP9F-taHladh-12">
+        <mxCell id="JAC4S3_GDP9F-taHladh-23" value="下载清单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Georgia;fontColor=#1A1A1A;" parent="JAC4S3_GDP9F-taHladh-12" vertex="1" connectable="0">
           <mxGeometry x="-0.2906" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JAC4S3_GDP9F-taHladh-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;发起清单&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JAC4S3_GDP9F-taHladh-6" target="JAC4S3_GDP9F-taHladh-5">
+        <mxCell id="JAC4S3_GDP9F-taHladh-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;发起清单&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JAC4S3_GDP9F-taHladh-6" target="JAC4S3_GDP9F-taHladh-5" edge="1">
           <mxGeometry x="-0.345" y="-1" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="270" as="sourcePoint" />
             <mxPoint x="625" y="340" as="targetPoint" />
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JAC4S3_GDP9F-taHladh-16" value="更新单个清单处理进度" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;verticalAlign=top;" edge="1" parent="1" source="JAC4S3_GDP9F-taHladh-6" target="JAC4S3_GDP9F-taHladh-4">
+        <mxCell id="JAC4S3_GDP9F-taHladh-16" value="更新单个清单处理进度" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;verticalAlign=top;" parent="1" source="JAC4S3_GDP9F-taHladh-6" target="JAC4S3_GDP9F-taHladh-4" edge="1">
           <mxGeometry x="0.2" y="-4" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="475" y="270" as="sourcePoint" />
             <mxPoint x="525" y="340" as="targetPoint" />
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JAC4S3_GDP9F-taHladh-17" value="查询/更新bucket属性" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JAC4S3_GDP9F-taHladh-1" target="JAC4S3_GDP9F-taHladh-2">
+        <mxCell id="JAC4S3_GDP9F-taHladh-17" value="查询/更新bucket属性" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JAC4S3_GDP9F-taHladh-1" target="JAC4S3_GDP9F-taHladh-2" edge="1">
           <mxGeometry x="0.112" y="-2" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="201.25" y="205" as="sourcePoint" />
             <mxPoint x="128.75" y="275" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JAC4S3_GDP9F-taHladh-18" value="更新bucket状态路由" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;verticalAlign=top;" edge="1" parent="1" source="JAC4S3_GDP9F-taHladh-1" target="JAC4S3_GDP9F-taHladh-9">
+        <mxCell id="JAC4S3_GDP9F-taHladh-18" value="更新bucket状态路由" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;verticalAlign=top;" parent="1" source="JAC4S3_GDP9F-taHladh-1" target="JAC4S3_GDP9F-taHladh-9" edge="1">
           <mxGeometry x="0.3059" y="-2" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="225" y="200" as="sourcePoint" />
             <mxPoint x="75" y="340" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JAC4S3_GDP9F-taHladh-19" value="更新搬迁状态" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JAC4S3_GDP9F-taHladh-1" target="JAC4S3_GDP9F-taHladh-3">
+        <mxCell id="JAC4S3_GDP9F-taHladh-19" value="更新搬迁状态" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JAC4S3_GDP9F-taHladh-1" target="JAC4S3_GDP9F-taHladh-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="225" y="200" as="sourcePoint" />
             <mxPoint x="175" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JAC4S3_GDP9F-taHladh-20" value="下发任务/上报进度" style="endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;jumpSize=6;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAC4S3_GDP9F-taHladh-7" target="JAC4S3_GDP9F-taHladh-6">
+        <mxCell id="JAC4S3_GDP9F-taHladh-20" value="下发任务/上报进度" style="endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;jumpSize=6;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JAC4S3_GDP9F-taHladh-7" target="JAC4S3_GDP9F-taHladh-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="270" as="sourcePoint" />
             <mxPoint x="600" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JAC4S3_GDP9F-taHladh-24" value="更新搬迁进度" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JAC4S3_GDP9F-taHladh-6" target="JAC4S3_GDP9F-taHladh-3">
+        <mxCell id="JAC4S3_GDP9F-taHladh-24" value="更新搬迁进度" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JAC4S3_GDP9F-taHladh-6" target="JAC4S3_GDP9F-taHladh-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450.0000000000002" y="270" as="sourcePoint" />
             <mxPoint x="390.0000000000002" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JAC4S3_GDP9F-taHladh-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;查询/下载&lt;br&gt;manifest&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;jumpSize=6;" edge="1" parent="1">
+        <mxCell id="JAC4S3_GDP9F-taHladh-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;查询/下载&lt;br&gt;manifest&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;fontColor=#1A1A1A;jumpSize=6;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="260" as="sourcePoint" />
             <mxPoint x="600" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToHe4V9xE8ma2F2t5Vuw-1" value="CosMigrator" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="650" y="380" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ToHe4V9xE8ma2F2t5Vuw-3" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;fontColor=#1A1A1A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;" edge="1" parent="1" target="ToHe4V9xE8ma2F2t5Vuw-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="330" as="sourcePoint" />
+            <mxPoint x="610" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToHe4V9xE8ma2F2t5Vuw-4" value="注册搬迁" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Georgia;fontColor=#1A1A1A;" vertex="1" connectable="0" parent="ToHe4V9xE8ma2F2t5Vuw-3">
+          <mxGeometry x="-0.2906" y="1" relative="1" as="geometry">
+            <mxPoint x="5" y="13" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
